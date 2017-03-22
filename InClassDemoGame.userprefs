@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{EADA6466-1805-4971-AA00-4D60BD524460}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="InClassDemoGame/Ball.cs">
+    <Files>
+      <File FileName="InClassDemoGame/Game1.cs" Line="43" Column="4" />
+      <File FileName="InClassDemoGame/StateMachine.cs" Line="147" Column="17" />
+      <File FileName="InClassDemoGame/GameState.cs" Line="31" Column="1" />
+      <File FileName="InClassDemoGame/Ball.cs" Line="22" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.InClassDemoGame PreferredExecutionTarget="Test1" />
+</Properties>
